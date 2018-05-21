@@ -5,7 +5,7 @@ class User
     @last_name = last_name
   end
 
-  def first_name
+  def first_name(name)
     @first_name
   end
 
